@@ -1,0 +1,144 @@
+<svg width="960" height="510" viewBox="0 0 960 510" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="sh" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00000022"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="960" height="510" fill="#F5F7FA" rx="12"/>
+
+  <!-- Title -->
+  <text x="480" y="44" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#1A2840" letter-spacing="1.5">CAREER TIMELINE</text>
+  <text x="480" y="63" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#7090A0">15+ Years · Microsoft Dynamics NAV &amp; Business Central</text>
+
+  <!-- Diagonal dashed guide line -->
+  <line x1="90" y1="455" x2="860" y2="215" stroke="#C5D5DF" stroke-width="1.5" stroke-dasharray="7,5"/>
+  <polygon points="869,210 858,219 857,207" fill="#C5D5DF"/>
+
+  <!-- ===== STAIRCASE STEPS (drawn back-to-front) ===== -->
+  <!-- Step 01: Hameedia Group -->
+  <rect x="90"  y="415" width="780" height="40"  fill="#9B7B5E"/>
+  <!-- Step 02: WebQuarters -->
+  <rect x="220" y="375" width="650" height="80"  fill="#C47845"/>
+  <!-- Step 03: Ascentic -->
+  <rect x="350" y="335" width="520" height="120" fill="#D49B45"/>
+  <!-- Step 04: Accepto Technologies -->
+  <rect x="480" y="295" width="390" height="160" fill="#2E7B8A"/>
+  <!-- Step 05: NA-KD.com -->
+  <rect x="610" y="255" width="260" height="200" fill="#1A7EA8"/>
+  <!-- Step 06: NAB Solutions AB (current) -->
+  <rect x="740" y="215" width="130" height="240" fill="#0078D4"/>
+
+  <!-- Baseline -->
+  <line x1="88" y1="455" x2="872" y2="455" stroke="#8AAABB" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Year tick marks -->
+  <line x1="90"  y1="455" x2="90"  y2="467" stroke="#8AAABB" stroke-width="1.5"/>
+  <line x1="220" y1="455" x2="220" y2="467" stroke="#8AAABB" stroke-width="1.5"/>
+  <line x1="350" y1="455" x2="350" y2="467" stroke="#8AAABB" stroke-width="1.5"/>
+  <line x1="480" y1="455" x2="480" y2="467" stroke="#8AAABB" stroke-width="1.5"/>
+  <line x1="610" y1="455" x2="610" y2="467" stroke="#8AAABB" stroke-width="1.5"/>
+  <line x1="740" y1="455" x2="740" y2="467" stroke="#8AAABB" stroke-width="1.5"/>
+  <line x1="870" y1="455" x2="870" y2="467" stroke="#0078D4" stroke-width="2"/>
+
+  <!-- Year labels -->
+  <text x="90"  y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" fill="#7090A0">2009</text>
+  <text x="220" y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" fill="#7090A0">2015</text>
+  <text x="350" y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" fill="#7090A0">2019</text>
+  <text x="480" y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" fill="#7090A0">2020</text>
+  <text x="610" y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" fill="#7090A0">2022</text>
+  <text x="740" y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" fill="#7090A0">2025</text>
+  <text x="870" y="482" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#0078D4">Now</text>
+
+  <!-- ===== STEP NUMBER BADGES on each riser ===== -->
+  <circle cx="115" cy="435" r="12" fill="rgba(255,255,255,0.88)"/>
+  <text x="115" y="439" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#9B7B5E">01</text>
+
+  <circle cx="245" cy="395" r="12" fill="rgba(255,255,255,0.88)"/>
+  <text x="245" y="399" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#C47845">02</text>
+
+  <circle cx="375" cy="355" r="12" fill="rgba(255,255,255,0.88)"/>
+  <text x="375" y="359" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#D49B45">03</text>
+
+  <circle cx="505" cy="315" r="12" fill="rgba(255,255,255,0.88)"/>
+  <text x="505" y="319" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#2E7B8A">04</text>
+
+  <circle cx="635" cy="275" r="12" fill="rgba(255,255,255,0.88)"/>
+  <text x="635" y="279" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#1A7EA8">05</text>
+
+  <circle cx="765" cy="235" r="12" fill="rgba(255,255,255,0.88)"/>
+  <text x="765" y="239" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9" font-weight="700" fill="#0078D4">06</text>
+
+  <!-- ===== CONNECTOR LINES (drawn before cards) ===== -->
+  <line x1="155" y1="404" x2="155" y2="415" stroke="#9B7B5E" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="285" y1="364" x2="285" y2="375" stroke="#C47845" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="415" y1="324" x2="415" y2="335" stroke="#D49B45" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="545" y1="284" x2="545" y2="295" stroke="#2E7B8A" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="675" y1="244" x2="675" y2="255" stroke="#1A7EA8" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="805" y1="202" x2="805" y2="215" stroke="#0078D4" stroke-width="2"   stroke-dasharray="2,2"/>
+
+  <!-- ===== LABEL CARDS ===== -->
+
+  <!-- Card 01: Hameedia Group -->
+  <rect x="95"  y="319" width="120" height="85" fill="white" rx="6" filter="url(#sh)" stroke="#C8A888" stroke-width="1"/>
+  <rect x="95"  y="319" width="120" height="20" fill="#9B7B5E" rx="6"/>
+  <rect x="95"  y="330" width="120" height="9"  fill="#9B7B5E"/>
+  <text x="155" y="333" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9.5" font-weight="700" fill="white">2009 – 2015</text>
+  <text x="155" y="352" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9"   font-weight="700" fill="#3A2A1A">Hameedia Group</text>
+  <text x="155" y="366" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">ERP Technical</text>
+  <text x="155" y="378" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Specialist</text>
+  <text x="155" y="395" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7"   fill="#999">Sri Lanka</text>
+
+  <!-- Card 02: WebQuarters -->
+  <rect x="225" y="279" width="120" height="85" fill="white" rx="6" filter="url(#sh)" stroke="#E8C098" stroke-width="1"/>
+  <rect x="225" y="279" width="120" height="20" fill="#C47845" rx="6"/>
+  <rect x="225" y="290" width="120" height="9"  fill="#C47845"/>
+  <text x="285" y="293" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9.5" font-weight="700" fill="white">2015 – 2019</text>
+  <text x="285" y="312" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9"   font-weight="700" fill="#3A2010">WebQuarters®</text>
+  <text x="285" y="326" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Lead ERP</text>
+  <text x="285" y="338" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Consultant</text>
+  <text x="285" y="355" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7"   fill="#999">Sri Lanka</text>
+
+  <!-- Card 03: Ascentic -->
+  <rect x="355" y="239" width="120" height="85" fill="white" rx="6" filter="url(#sh)" stroke="#EDD088" stroke-width="1"/>
+  <rect x="355" y="239" width="120" height="20" fill="#D49B45" rx="6"/>
+  <rect x="355" y="250" width="120" height="9"  fill="#D49B45"/>
+  <text x="415" y="253" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9.5" font-weight="700" fill="white">2019 – 2021</text>
+  <text x="415" y="272" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9"   font-weight="700" fill="#3A2A00">Ascentic</text>
+  <text x="415" y="286" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Sr. Technical</text>
+  <text x="415" y="298" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Lead</text>
+  <text x="415" y="315" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7"   fill="#999">Sri Lanka</text>
+
+  <!-- Card 04: Accepto Technologies -->
+  <rect x="485" y="199" width="120" height="85" fill="white" rx="6" filter="url(#sh)" stroke="#88BBCC" stroke-width="1"/>
+  <rect x="485" y="199" width="120" height="20" fill="#2E7B8A" rx="6"/>
+  <rect x="485" y="210" width="120" height="9"  fill="#2E7B8A"/>
+  <text x="545" y="213" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9.5" font-weight="700" fill="white">2020 – 2022</text>
+  <text x="545" y="232" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9"   font-weight="700" fill="#0A2A35">Accepto Tech.</text>
+  <text x="545" y="246" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Technical</text>
+  <text x="545" y="258" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Director</text>
+  <text x="545" y="275" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7"   fill="#999">Sri Lanka</text>
+
+  <!-- Card 05: NA-KD.com -->
+  <rect x="615" y="159" width="120" height="85" fill="white" rx="6" filter="url(#sh)" stroke="#88C4D8" stroke-width="1"/>
+  <rect x="615" y="159" width="120" height="20" fill="#1A7EA8" rx="6"/>
+  <rect x="615" y="170" width="120" height="9"  fill="#1A7EA8"/>
+  <text x="675" y="173" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9.5" font-weight="700" fill="white">2022 – 2025</text>
+  <text x="675" y="192" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9"   font-weight="700" fill="#062030">NA-KD.com</text>
+  <text x="675" y="206" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Technical</text>
+  <text x="675" y="218" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#666">Consultant</text>
+  <text x="675" y="235" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7"   fill="#999">Gothenburg, SE</text>
+
+  <!-- Card 06: NAB Solutions AB (Current) -->
+  <rect x="745" y="105" width="120" height="97" fill="white" rx="6" filter="url(#sh)" stroke="#4499DD" stroke-width="1.5"/>
+  <rect x="745" y="105" width="120" height="20" fill="#0078D4" rx="6"/>
+  <rect x="745" y="116" width="120" height="9"  fill="#0078D4"/>
+  <text x="805" y="119" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9.5" font-weight="700" fill="white">2025 – Present</text>
+  <text x="805" y="138" text-anchor="middle" font-family="Segoe UI,Arial" font-size="9"   font-weight="700" fill="#0060BB">NAB Solutions AB</text>
+  <text x="805" y="152" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#555">BC System</text>
+  <text x="805" y="164" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" fill="#555">Developer</text>
+  <text x="805" y="178" text-anchor="middle" font-family="Segoe UI,Arial" font-size="7.5" font-weight="600" fill="#0078D4">Malmo, Sweden</text>
+  <text x="805" y="193" text-anchor="middle" font-family="Segoe UI,Arial" font-size="8"   fill="#E8A800">&#9733; Current Position</text>
+
+</svg>

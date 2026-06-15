@@ -63,43 +63,17 @@ I architect and deliver end-to-end Business Central solutions — bridging the g
 
 <div align="center">
 
-| Period | Company | Role | Location |
-|:---:|:---|:---|:---:|
-| **2025 – Present** | 🟦 **NAB Solutions AB** | Microsoft Dynamics BC System Developer | 🇸🇪 Sweden |
-| **2022 – 2025** | 🛍️ **NA-KD.com** | Technical Consultant | 🇸🇪 Gothenburg |
-| **2020 – 2022** | ⚙️ **Accepto Technologies** | Technical Director | 🇱🇰 Sri Lanka |
-| **2019 – 2021** | 💼 **Ascentic** | Senior Technical Lead → Lead ERP Consultant | 🇱🇰 Sri Lanka |
-| **2015 – 2019** | 🌐 **WebQuarters®** | Lead ERP Consultant → ERP Consultant | 🇱🇰 Sri Lanka |
-| **2009 – 2015** | 🏬 **Hameedia Group of Companies** | ERP Technical Specialist → IT Assistant | 🇱🇰 Sri Lanka |
+![Career Timeline](./career-timeline.svg)
 
 </div>
 
-```
-◉ 2025 – Present ─────────────────────────────────────────────────────────────────────
-  NAB Solutions AB · BC System Developer · Sweden
-
-◉ 2022 – 2025 ────────────────────────────────────────────────────────────────────────
-  NA-KD.com · Technical Consultant · Gothenburg, Sweden
-
-◉ 2020 – 2022 ────────────────────────────────────────────────────────────────────────
-  Accepto Technologies · Technical Director · Sri Lanka
-
-◉ 2019 – 2021 ────────────────────────────────────────────────────────────────────────
-  Ascentic · Senior Technical Lead → Lead ERP Consultant · Sri Lanka
-
-◉ 2015 – 2019 ────────────────────────────────────────────────────────────────────────
-  WebQuarters® · Lead ERP Consultant → ERP Consultant · Sri Lanka
-
-◉ 2009 – 2015 ────────────────────────────────────────────────────────────────────────
-  Hameedia Group of Companies · ERP Specialist → IT Assistant · Sri Lanka
-```
 
 ---
 
 ## 🏢 Experience
 
 <details>
-<summary><strong>🟦 NAB Solutions AB — Microsoft Dynamics Business Central System Developer</strong> &nbsp;<code>Jul 2025 – Present</code> · Sweden</summary>
+<summary><strong>🟦 NAB Solutions AB — Microsoft Dynamics Business Central System Developer</strong> &nbsp;<code>Jul 2025 – Present</code> · Malmö, Sweden</summary>
 
 <br/>
 
