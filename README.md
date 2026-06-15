@@ -1,213 +1,242 @@
-<h1 align="center">Hi 👋, I'm Mansoor Mohamed</h1>
-<h3 align="center">Microsoft Dynamics Consultant | Business Central | NAV | Sales</h3>
-<p align="center">📍 Helsingborg, Skåne County, Sweden</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mansoorm-nab&label=Profile%20views&color=0e75b6&style=flat" alt="mansoorm-nab" />
-  <img src="https://img.shields.io/github/followers/mansoorm-nab?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
+# Mansoor Mohamed
+### Microsoft Dynamics 365 Business Central | Techno-Functional Consultant
+#### AL Developer · ERP Architect · Integration Specialist · Team Lead
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mansoorm-nab&theme=flat&column=6&margin-w=10" alt="mansoorm-nab trophies" />
-  </a>
-</p>
+📍 Helsingborg, Sweden &nbsp;|&nbsp; 🌐 [linkedin.com/in/mansoorlk](https://www.linkedin.com/in/mansoorlk) &nbsp;|&nbsp; 📧 mplze@yahoo.com
 
----
+<br/>
 
-## 🙋 About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=mansoorm-nab&label=Profile%20Views&color=0078D4&style=flat-square)](https://github.com/mansoorm-nab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0078D4?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mansoorlk)
+[![BCS Member](https://img.shields.io/badge/BCS-Professional%20Member%20(MBCS)-003087?style=flat-square)](https://www.bcs.org/)
+[![MB-800](https://img.shields.io/badge/Microsoft%20Certified-MB--800%20BC%20Functional%20Consultant-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/d365-business-central-functional-consultant-associate/)
 
-💡 I am a solution-oriented Dynamics 365 Business Central consultant with more than a decade of techno-functional experience in solution design, implementations, system integrations, rollouts, gap analysis, training, and post-implementation support.
-
-🚀 I combine strong technical expertise in AL development, Power BI, Azure, SQL, and automation tools with proven leadership in managing both technical and functional teams. I focus on delivering high-quality solutions within time and scope while ensuring business value.
-
-⚙️ A fast learner with a passion for adopting new technologies, I actively leverage AI and modern tools to improve performance, save time, and drive better outcomes for clients and teams. My focus is always on solving challenges and creating efficient, scalable solutions that meet customer expectations.
-
-`#MSDYN365` `#MSDYNERP` `#MSDYNNAV` `#MSDYNCRM` `#dynamics365` `#MSDYN365BC` `#LSRetail`
+</div>
 
 ---
 
-- 🔭 I'm currently working on **Microsoft Dynamics Business Central System Development at NAB Solutions AB**
-- 🌱 I'm currently learning **AL development patterns, Azure integrations & AI-driven automation**
-- 💬 Ask me about **Business Central, Dynamics NAV, ERP consulting, AL extensions & system integrations**
-- 📫 How to reach me: **[linkedin.com/in/mansoorlk](https://www.linkedin.com/in/mansoorlk)** · **mplze@yahoo.com**
-- 🌐 Languages: **English · Sinhalese · Tamil**
-- ⚡ Fun fact: **I've successfully upgraded a BC 2013 database handling 250+ companies and 2500+ objects to online**
+## 👤 Professional Summary
+
+> **15+ years** of techno-functional ERP experience across the full Microsoft Dynamics stack — from NAV 2009 through Dynamics 365 Business Central SaaS. Proven track record leading complex implementations, system integrations, cloud migrations, and cross-functional teams across retail, manufacturing, fashion, and services sectors in Sri Lanka, Sweden, and beyond.
+
+I architect and deliver end-to-end Business Central solutions — bridging the gap between business requirements and technical execution. My work spans AL extension development, REST/OData API integrations, Power Platform automation, Azure services, and LS Retail POS implementations. I lead with both code and communication.
+
+**What I bring to every engagement:**
+- 🏗️ Solution design from gap analysis through go-live and hypercare
+- 🔌 10+ successful enterprise integrations (REST, OData, Web Services)
+- 📦 BC database migration: 250+ companies · 2,500+ objects · zero data loss
+- 🧑‍🏫 Training, change management, and stakeholder workshops
+- 🤖 AI-augmented development workflows for faster, higher-quality delivery
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mansoorlk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansoorlk" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/mansoorm-nab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mansoorm-nab" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@mansoorm-nab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansoorm-nab" height="30" width="40" />
-  </a>
-</p>
+## 🧰 Technical Competencies
+
+### Microsoft Dynamics Platform
+![D365 BC](https://img.shields.io/badge/Dynamics%20365%20BC-SaaS%20%7C%20OnPrem-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-2009%20to%202018-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AL Language](https://img.shields.io/badge/AL%20Language-Extensions%20v2-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LS Retail](https://img.shields.io/badge/LS%20Retail%20%2F%20LS%20Central-POS%20%7C%20Hospitality-E31837?style=for-the-badge&logoColor=white)
+
+### Microsoft Power Platform & Azure
+![Power BI](https://img.shields.io/badge/Power%20BI-Reports%20%26%20Dashboards-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-Workflows-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas%20%26%20Model--driven-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Services-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Data & DevOps
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2000%20to%20Current-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD%20%7C%20Boards-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Source%20Control-181717?style=for-the-badge&logo=github&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-Report%20Design-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Functional Domains
+| Finance & Accounting | Supply Chain & Inventory | Manufacturing | Retail & POS | CRM & Sales |
+|:---:|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ | ✅ |
+
+---
+
+## 💼 Career Timeline
+
+```
+2025 – Present  │  NAB Solutions AB             │  BC System Developer            │  Sweden
+2022 – 2025     │  NA-KD.com                    │  Technical Consultant           │  Gothenburg, Sweden
+2020 – 2022     │  Accepto Technologies         │  Technical Director             │  Sri Lanka
+2019 – 2021     │  Ascentic                     │  Senior Technical Lead → Lead   │  Sri Lanka
+2015 – 2019     │  WebQuarters®                 │  Lead ERP Consultant → Consult  │  Sri Lanka
+2009 – 2015     │  Hameedia Group of Companies  │  ERP Specialist → IT Assistant  │  Sri Lanka
+```
 
 ---
 
 ## 🏢 Experience
 
-### 🟦 NAB Solutions AB — *Microsoft Dynamics Business Central System Developer*
-`July 2025 – Present` · Sweden
+<details>
+<summary><strong>🟦 NAB Solutions AB — Microsoft Dynamics Business Central System Developer</strong> &nbsp;<code>Jul 2025 – Present</code> · Sweden</summary>
 
----
+<br/>
 
-### 🟦 NA-KD.com — *Technical Consultant*
-`October 2022 – June 2025` · Gothenburg, Sweden
+AL extension development and Business Central system development within the NAB SmartApps ecosystem.
 
----
+</details>
 
-### 🟦 Accepto Technologies — *Technical Director*
-`January 2020 – September 2022` · Western Province, Sri Lanka
+<details>
+<summary><strong>🟦 NA-KD.com — Technical Consultant</strong> &nbsp;<code>Oct 2022 – Jun 2025</code> · Gothenburg, Sweden</summary>
 
-Leading design and implementation of technical solutions across retail, manufacturing, and service industries.
+<br/>
 
-**Key Responsibilities:**
-- Overseeing technical solutions and providing accurate time estimations
-- Managing projects with both technical and functional teams
-- Leading client meetings, solution demos, and requirement discussions
-- Mapping business processes to existing functionalities and designing custom solutions
+Technical consulting for one of Europe's fastest-growing fashion e-commerce brands — delivering Business Central integrations and customisations supporting high-volume retail operations.
 
-**Technical Expertise:** AL Programming · Business Central Customization · Integrations & API Development (10+ implementations) · Azure · Power BI · Power Automate · Power Apps · SQL Server
+</details>
 
-**Notable Achievements:**
-- ✅ Upgraded a Business Central 2013 database to online — 250+ companies, 2500+ objects
-- ✅ Led multiple large-scale integrations to streamline business operations
-- ✅ Managed end-to-end project delivery aligned with customer expectations
+<details>
+<summary><strong>🟦 Accepto Technologies — Technical Director</strong> &nbsp;<code>Jan 2020 – Sep 2022</code> · Sri Lanka</summary>
 
----
+<br/>
 
-### 🟦 Ascentic — *2 years 2 months*
+Led the technical division delivering Microsoft Dynamics Business Central solutions across retail, manufacturing, and services.
 
-**Senior Technical Lead – Microsoft Dynamics Business Central**
-`May 2020 – September 2021` · Sri Lanka
+**Responsibilities:**
+- Technical solution oversight and accurate project estimation
+- End-to-end project management across technical and functional teams
+- Client requirement workshops, solution demos, and gap analysis
+- Business process mapping to BC standard functionality + custom development
 
-**Lead - ERP Consultant – Microsoft Dynamics Business Central**
-`August 2019 – May 2020` · Sri Lanka
+**Key Achievements:**
+- ✅ Migrated BC 2013 database to Dynamics 365 BC Online — **250+ companies · 2,500+ objects**
+- ✅ Delivered **10+ enterprise-grade REST/API integrations**
+- ✅ Led multiple large-scale cross-industry ERP rollouts on time and within scope
 
----
+</details>
 
-### 🟦 WebQuarters® — *4 years 1 month*
+<details>
+<summary><strong>🟦 Ascentic — Senior Technical Lead / Lead ERP Consultant</strong> &nbsp;<code>Aug 2019 – Sep 2021</code> · Sri Lanka</summary>
 
-**Lead - ERP Consultant (MS Dynamics NAV)**
-`July 2018 – August 2019` · Sri Lanka
+<br/>
 
-Headed the Microsoft Dynamics NAV technical division — overseeing all NAV solutions, developments, and deliveries within timeline.
+Progressed from Lead ERP Consultant to Senior Technical Lead within 10 months. Delivered Business Central implementations and led the technical delivery team.
 
-**ERP Consultant – MS Dynamics NAV**
-`August 2015 – July 2018` · Sri Lanka
+</details>
 
-Fulfilled client ERP requirements including implementation, enhancement, upgrade, rollout, training, and post-go-live support in both technical and functional capacities.
+<details>
+<summary><strong>🟦 WebQuarters® — Lead ERP Consultant / ERP Consultant (MS Dynamics NAV)</strong> &nbsp;<code>Aug 2015 – Aug 2019</code> · Sri Lanka</summary>
 
----
+<br/>
 
-### 🟦 Hameedia Group of Companies — *6 years 1 month*
+Headed the Microsoft Dynamics NAV technical division. Delivered full-lifecycle ERP services: implementation, enhancement, upgrade, rollout, training, and post-go-live support across both technical and functional roles.
 
-**Assistant Manager ERP Development**
-`September 2014 – August 2015` · Sri Lanka
+</details>
 
-Bridged technical expertise with business management — communicating technical plans to business stakeholders and vice versa. Implemented value-added systems, managed IT annual business planning, and collaborated with Microsoft development partners.
+<details>
+<summary><strong>🟦 Hameedia Group of Companies — ERP Technical Specialist / Asst. Manager ERP / IT Assistant</strong> &nbsp;<code>Aug 2009 – Aug 2015</code> · Sri Lanka</summary>
 
-**ERP Technical Specialist**
-`October 2010 – September 2014` · Sri Lanka
+<br/>
 
-HAMEEDIA Group — largest retail chain in Sri Lanka with 40+ outlets running LS Retail (POS) on Dynamics NAV. Full responsibility for technical and functional activities of Microsoft Dynamics NAV and Databases. Delivered staff workshops and training for system upgrades.
+Sri Lanka's largest retail chain — **40+ outlets** on LS Retail (POS) on top of Microsoft Dynamics NAV.
 
-`#NAV2009` `#LSRetail` `#SSRS` `#SQL`
+- Full ownership of Microsoft Dynamics NAV technical and functional activities
+- Database administration from SQL Server 2000 onwards
+- Delivered staff workshops and upgrade training programmes
+- IT infrastructure management: servers, network, firewall, domain policy
 
-**IT Assistant**
-`August 2009 – October 2010` · Sri Lanka
+`NAV 2009` · `LS Retail` · `SSRS` · `SQL Server`
 
-Maintained databases and IT infrastructure (servers, network, firewall, router, domain policy). Database administration from SQL Server 2000 onwards.
+</details>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| M.Sc. Information Technology | SLIIT | 2014 – 2017 |
-| Postgraduate Diploma (PGDip), Information Technology | SLIIT | 2014 – 2015 |
-| B.Sc (Sp.Hons) IT, Information Technology | SLIIT | 2008 – 2012 |
+| Qualification | Institution | Period |
+|---|---|---|
+| 🎓 M.Sc. Information Technology | SLIIT, Sri Lanka | 2014 – 2017 |
+| 📜 Postgraduate Diploma (PGDip), Information Technology | SLIIT, Sri Lanka | 2014 – 2015 |
+| 🎓 B.Sc (Sp. Hons) Information Technology | SLIIT, Sri Lanka | 2008 – 2012 |
 
 ---
 
-## 🏅 Certifications & Awards
+## 🏅 Certifications, Memberships & Awards
 
-| | |
+| Recognition | Details |
 |---|---|
-| 🎖️ Professional Member BCS (MBCS) | |
-| 📜 Diploma | |
-| 📜 Advance Diploma | |
-| 🏆 Best Executive of the Year – 2013 | |
-| ⭐ Exceptional Commitment Award | |
+| � **Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate** | MB-800 · Renewed |
+| 🎖️ **Professional Member BCS** | The Chartered Institute for IT (MBCS) |
+| 📜 **Diploma** | |
+| 📜 **Advance Diploma** | |
+| 🏆 **Best Executive of the Year** | 2013 |
+| ⭐ **Exceptional Commitment Award** | |
+
+> 🎉 *"I've successfully renewed my Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate. Always learning, always improving."*
+>
+> ![MicrosoftCertified](https://img.shields.io/badge/Microsoft%20Certified-Dynamics%20365%20BC%20Functional%20Consultant-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+> &nbsp; ![MB-800](https://img.shields.io/badge/Exam-MB--800-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
-## 📝 Publications
+## 🌍 Languages
 
-> **A Case Study of Sri Lanka Oil Price Fluctuations and Its Influencing Factors Using Predictive Analytics**
-> — Mansoor Mohamed
+![English](https://img.shields.io/badge/English-Professional%20Proficiency-0078D4?style=flat-square)
+![Sinhalese](https://img.shields.io/badge/Sinhalese-Native-2E7D32?style=flat-square)
+![Tamil](https://img.shields.io/badge/Tamil-Proficient-F57C00?style=flat-square)
 
 ---
 
-## 🛠️ Core Expertise
+## 📝 Publications & Articles
 
-![Business Central](https://img.shields.io/badge/Business%20Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Dynamics NAV](https://img.shields.io/badge/Dynamics%20NAV-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AL Language](https://img.shields.io/badge/AL%20Language-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LS Retail](https://img.shields.io/badge/LS%20Retail-E31837?style=for-the-badge&logoColor=white)
+### Research Paper
+> 📄 **A Case Study of Sri Lanka Oil Price Fluctuations and Its Influencing Factors Using Predictive Analytics**
+> *— Mansoor Mohamed*
 
-<h3 align="left">🔧 Tools & Technologies:</h3>
+### LinkedIn Articles
+
+| Article | Topic | Link |
+|---|---|---|
+| **Dynamics Business Central & Google BigQuery — Data Integration** | Integrating BC with Google BigQuery for analytics and data warehousing | [Read on LinkedIn →](https://www.linkedin.com/pulse/dynamics-business-central-google-big-query-data-mansoor-mohamed-dfuef/) |
+| **Dynamics Business Central — Sinhala Language** | Enabling Sinhala language support in Business Central | [Read on LinkedIn →](https://www.linkedin.com/pulse/dynamics-business-central-sinhala-language-mansoor-mohamed/) |
+
+---
+
+## 🔗 Connect with Me
+
 <p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <a href="https://linkedin.com/in/mansoorlk" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <a href="https://dev.to/mansoorm-nab" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://medium.com/@mansoorm-nab" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorm-nab&show_icons=true&locale=en&layout=compact&theme=flat" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mansoorm-nab&show_icons=true&locale=en&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorm-nab&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&title_color=0078D4" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansoorm-nab&show_icons=true&locale=en&theme=flat" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorm-nab&theme=default&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansoorm-nab&theme=flat" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mansoorm-nab&theme=flat&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+*"Delivering scalable ERP solutions that drive real business value — one implementation at a time."*
+
+</div>
